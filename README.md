@@ -2,8 +2,11 @@
 
 # İndirilme Aşaması
 sudo apt install python3
+
 pip install scapy
+
 pip install PyQt5
+
 sudo python tekscan.py
 
 # Örnek Kullanım
